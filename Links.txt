@@ -1,0 +1,4 @@
+https://www.baeldung.com/jersey-jax-rs-client
+https://www.baeldung.com/jersey-rest-api-with-spring
+https://spring.io/guides/gs/consuming-rest/
+https://balusc.omnifaces.org/2020/04/jsf-23-tutorial-with-eclipse-maven.html
